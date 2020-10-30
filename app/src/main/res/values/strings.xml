@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Veterinaria_RP</string>
+    <string name="pnombre">Ricardo</string>
+    <string name="favoritos">Mascotas favoritas</string>
+    <string name="likes">likes</string>
+    <string name="autor">Ricardo Palermo</string>
+    <string name="mail_autor">rpalermo15@vera.com.uy</string>
+    <string name="telefono_autor">+598 94959846</string>
+    <string name="menu_contacto">Contacto</string>
+    <string name="menu_favoritos">Favoritos</string>
+    <string name="menu_acerca_de">Acerca de</string>
+    <string name="contacto_titulo">Contacto</string>
+    <string name="titulo">Completa todos los campos</string>
+    <string name="nombre">Nombre Completo</string>
+    <string name="mensaje">Mensaje</string>
+    <string name="email">Email</string>
+    <string name="texto_boton">Confirmar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
